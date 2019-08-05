@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagina Home Snapshot 1`] = `
+<v-container grid-list-xs="">
+  <v-layout justify-center="" mt-4="">
+    <v-btn id="btn-dialogo" color="success">Dialogo</v-btn>
+  </v-layout>
+</v-container>
+`;
